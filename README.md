@@ -1,3 +1,3 @@
 MDPI-paper
 
-This repository holds the project demonstrating the Nighttime Bed-Leaving Alert System and Fall-Prevention (NBLASFP) described in the MDPI paper titled "A New Hardware/Software Assistive Wi-Fi Device for Elderly Bed-exit Event at Night", which is under revision.
+This repository holds the project Nighttime Bed-Leaving Alert System and Fall-Prevention (NBLASFP) described in the MDPI paper titled "A New Hardware/Software Assistive Wi-Fi Device for Elderly Bed-exit Event at Night", which is under revision.
